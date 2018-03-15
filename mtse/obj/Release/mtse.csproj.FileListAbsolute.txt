@@ -1,0 +1,7 @@
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\mtse\bin\Release\mtse.dll
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\mtse\bin\Release\mtse.pdb
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\mtse\bin\Release\soal.dll
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\mtse\bin\Release\soal.pdb
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\mtse\obj\Release\mtse.csprojResolveAssemblyReference.cache
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\mtse\obj\Release\mtse.dll
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\mtse\obj\Release\mtse.pdb

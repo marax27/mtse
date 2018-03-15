@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mtse", "mtse\mtse.csproj", "{93171A65-3BAB-485B-8C9B-88759CF0CAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soal", "soal\soal.csproj", "{A02C4E04-0D33-4E51-9EFB-44CE343A9482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gui", "gui\gui.csproj", "{17AF55B2-01DE-459A-B5D9-4CDC4225E2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93171A65-3BAB-485B-8C9B-88759CF0CAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93171A65-3BAB-485B-8C9B-88759CF0CAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93171A65-3BAB-485B-8C9B-88759CF0CAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93171A65-3BAB-485B-8C9B-88759CF0CAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02C4E04-0D33-4E51-9EFB-44CE343A9482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02C4E04-0D33-4E51-9EFB-44CE343A9482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02C4E04-0D33-4E51-9EFB-44CE343A9482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02C4E04-0D33-4E51-9EFB-44CE343A9482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17AF55B2-01DE-459A-B5D9-4CDC4225E2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AF55B2-01DE-459A-B5D9-4CDC4225E2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AF55B2-01DE-459A-B5D9-4CDC4225E2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AF55B2-01DE-459A-B5D9-4CDC4225E2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

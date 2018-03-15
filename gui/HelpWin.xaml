@@ -1,0 +1,55 @@
+﻿<Window x:Class="gui.HelpWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gui"
+        mc:Ignorable="d"
+        Title="Okno pomocy" Height="350" Width="480">
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <TabControl>
+            <TabItem Header="Wstęp" FontSize="14">
+                <RichTextBox IsReadOnly="True">
+                    <FlowDocument>
+                        <Paragraph>MTSE jest programem komputerowym pozwalającym obliczać złożone wyrażenia matematyczne.</Paragraph>
+                        <Paragraph>Użytkownik ma do dyspozycji kilkadziesiąt operatorów - w tym matematycznych i logicznych - a także liczne funkcje oraz mechanizm tworzenia zmiennych i stałych.</Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </TabItem>
+            <TabItem Header="Zmienne" FontSize="14">
+                <RichTextBox IsReadOnly="True">
+                    <FlowDocument>
+                        <Paragraph>MTSE udostępnia możliwość definiowania własnych zmiennych i stałych. Służą do tego operatory '=' oraz <![CDATA['<-']]> .</Paragraph>
+                        <Paragraph>Definiowanie zmiennej wygląda następująco:</Paragraph>
+                        <Paragraph FontStyle="Italic">nazwa_zmiennej = wartość ALBO nazwa_zmiennej <![CDATA[<-]]> wartość</Paragraph>
+                        <Paragraph>Jeśli chcemy zdefiniować stałą, przed nazwą należy dodać wyraz 'const'.</Paragraph>
+                        <Paragraph>Stworzone zmienne można modyfikować poprzez operatory '+=', '-=', '*=', '/=', '^='.</Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </TabItem>
+            <TabItem Header="Funkcje" FontSize="14">
+                <RichTextBox IsReadOnly="True">
+                    <FlowDocument>
+                        <Paragraph>Lista funkcji dostępnych w aplikacji jest widoczna w zakładce "Funkcje" w oknie programu. Wywołanie funkcji w kodzie MTSE wygląda następująco:</Paragraph>
+                        <Paragraph FontStyle="Italic">nazwa_funkcji( argumenty )</Paragraph>
+                        <Paragraph>na przykład:</Paragraph>
+                        <Paragraph FontStyle="Italic">cos(0.321)</Paragraph>
+                        <Paragraph FontStyle="Italic">log(3, 27)</Paragraph>
+                        <Paragraph FontStyle="Italic">print('f(x) = ', 314)</Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </TabItem>
+            <TabItem Header="Importowanie" FontSize="14">
+                <RichTextBox IsReadOnly="True">
+                    <FlowDocument>
+                        <Paragraph>Istniejące już pliki z kodem MTSE mogą być wczytane do programu na 2 sposoby: poprzez menu (Plik->Otwórz) bądź bezpośrednio w kodzie. Drugi sposób wymaga wywołania funkcji</Paragraph>
+                        <Paragraph FontStyle="Italic">import('nazwa_pliku')</Paragraph>
+                        <Paragraph>i nie wczytuje owego pliku do edytora kodu, lecz wykonuje cały kod, ewentualnie wypisując rezultaty w oknie wyników.</Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </TabItem>
+        </TabControl>
+        </ScrollViewer>
+    </Grid>
+</Window>

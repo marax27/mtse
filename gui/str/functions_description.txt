@@ -1,0 +1,35 @@
+﻿cos(x) cosinus
+sin(x) sinus
+tan(x) tangens
+tg(x) tangens
+cot(x) cotangens
+ctg(x) cotangens
+arccos(x) arcus cosinus
+arcsin(x) arcus sinus
+arctan(x) arcus tangens
+arctg(x) arcus tangens
+arccot(x) arcus cotangens
+arcctg(x) arcus cotangens
+cosh(x) cosinus hiperboliczny
+sinh(x) sinus hiperboliczny
+tanh(x) tangens hiperboliczny
+tgh(x) tangens hiperboliczny
+coth(x) cotangens hiperboliczny
+ctgh(x) cotangens hiperboliczny
+arcosh(x) odwrotność cosinusa hiperbolicznego
+arsinh(x) odwrotność sinusa hiperbolicznego
+artanh(x) odwrotność tangensa hiperbolicznego
+artgh(x) odwrotność tangensa hiperbolicznego
+arcoth(x) odwrotność cotangensa hiperbolicznego
+arctgh(x) odwrotność cotangensa hiperbolicznego
+log(y,x) logarytm z x o podstawie y
+ln(x) logarytm naturalny
+abs(x) wartość bezwzględna
+sqrt(x) pierwiastek kwadratowy
+sgn(x) funkcja-znak
+factorial(n) silnia
+exit() zamknięcie programu
+print(...) wypisanie na ekran
+println(...) wypisanie na ekran z przejściem do nowej linii
+exec(x) wykonanie kodu
+import(x) zaimportowanie pliku

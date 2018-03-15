@@ -1,0 +1,4 @@
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\soal\bin\Release\soal.dll
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\soal\bin\Release\soal.pdb
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\soal\obj\Release\soal.dll
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\soal\obj\Release\soal.pdb

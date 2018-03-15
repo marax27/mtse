@@ -1,0 +1,5 @@
+C:\Users\kacper\documents\visual studio 2015\Projects\mtse\soal\bin\Debug\soal.dll
+C:\Users\kacper\documents\visual studio 2015\Projects\mtse\soal\bin\Debug\soal.pdb
+C:\Users\kacper\documents\visual studio 2015\Projects\mtse\soal\obj\Debug\soal.dll
+C:\Users\kacper\documents\visual studio 2015\Projects\mtse\soal\obj\Debug\soal.pdb
+C:\Users\kacper\Documents\Visual Studio 2015\Projects\mtse\soal\obj\Debug\soal.csprojResolveAssemblyReference.cache

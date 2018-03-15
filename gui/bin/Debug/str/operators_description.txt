@@ -1,0 +1,28 @@
+﻿+ dodawanie
+- odejmowanie
+* mnożenie
+/ dzielenie
+^ potęgowanie
+
+= przypisanie
+<- przypisanie z wyświetleniem wyniku
++= dodanie do zmiennej
+-= odjęcie od zmiennej
+*= pomnożenie zmiennej
+/= podzielenie zmiennej
+^= podniesienie zmiennej do potęgi
+
+or alternatywa
+and koniunkcja
+xor alternatywa wykluczająca
+not negacja
+
+< mniejszy od...
+> większy od...
+== równy...
+<= mniejszy lub równy...
+>= większy lub równy...
+!= różny od...
+
+mod reszta z dzielenia
+div dzielenie całkowite

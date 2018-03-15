@@ -1,0 +1,32 @@
+﻿%%unexpected_value_token Nieoczekiwany token został wychwycony
+%%right_parenth_lacks_left_parenth '(' oczekiwane
+%%not_enough_args_provided Podano zbyt mało argumentów
+%%const_repetition Nieoczekiwane 'const'
+%%incorrect_syntax Nieprawidłowa składnia kodu
+%%too_many_decimal_marks_in_number {0} nie jest poprawną liczbą
+%%invalid_end_of_string Nieprawidłowo zakończony łańcuch znaków
+%%comma_at_the_beginning Nieoczekiwane ','
+%%comma_after_operator Nieoczekiwane ','
+%%unknown_character Nieoczekiwany znak: '{0}'
+%%no_functions_provided Nieoczekiwane wywołanie funkcji
+%%unknown_operator Nieoczekiwany operator
+%%invalid_function_arg_number Niewłaściwa liczba argumentów funkcji '{0}' (oczekiwano {1}, otrzymano {2})
+%%invalid_argument_type Funkcja '{0}' otrzymała argument o niewłaściwym typie
+%%domain_error '{0}': błąd dziedziny (argument {1}: {2})
+%%greater_than_zero powinien być większy od 0
+%%greater_than_zero_not_one powinien być większy od 0 i różny od 1
+%%failed_to_import Funkcja import: nie udało się zaimportować pliku '{0}'
+%%unknown_function Nieznana funkcja: '{0}'
+%%variable_not_found Nieznana zmienna: '{0}'
+%%modify_constant '{0}' jest stałą; nie można modyfikować
+%%variable_already_declared Zmienna '{0}' już istnieje
+%%unknown_exception Podczas przetwarzania danych wystąpił błąd
+%%true prawda
+%%false fałsz
+%%toDouble_numerical_expected Wystąpił błąd
+%%object_not_integer Wystąpił błąd
+%%object_not_floating_point Wystąpił błąd
+%%object_not_boolean Wystąpił błąd
+%%object_not_string_nor_varcall Wystąpił błąd
+%%problem_encountered Wystąpił błąd
+%%operator_failure '{0}': operacja zakończona niepowodzeniem
