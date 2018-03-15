@@ -7,3 +7,5 @@ MTSE provides GUI, several operators, built-in functions etc., and **should not*
 
 ## Usage
 Use Python.
+
+If you are truly interested, there are 3 .txt files (in Polish) in both gui/bin/Debug/ and gui/bin/Release/str/: list of operators, functions and strings used by an application.
